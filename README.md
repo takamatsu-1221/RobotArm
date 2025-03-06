@@ -17,3 +17,4 @@ Bluetooth接続される．十字キー，および○△◽︎×ボタンによ
 
 ## その他
 制作期間は約1ヶ月
+![Image](https://github.com/user-attachments/assets/5fc324c9-b54c-4c72-9880-5d85fc92bdba)
